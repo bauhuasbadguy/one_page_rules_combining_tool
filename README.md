@@ -1,4 +1,4 @@
-# one page rules combining tool
+# One page rules combining tool
 
 ## Introduction
 
@@ -57,6 +57,6 @@ In this example you would run `combineGDF.py` and it would produce the full army
 
 * PyPDF4
 
-## contact
+## Contact
 
 Don't
